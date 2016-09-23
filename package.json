@@ -1,0 +1,25 @@
+{
+  "name": "piet-to-text",
+  "version": "0.0.1",
+  "description": "convert piet to codel arrays",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nna774/piet-to-text.git"
+  },
+  "keywords": [
+    "piet"
+  ],
+  "author": "NoNameA 774",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nna774/piet-to-text/issues"
+  },
+  "homepage": "https://github.com/nna774/piet-to-text#readme",
+  "dependencies": {
+    "piet-loader": "0.0.1"
+  }
+}
