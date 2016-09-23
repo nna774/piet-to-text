@@ -1,0 +1,7 @@
+// config.js
+
+const codel = 10;
+
+module.exports = {
+  codel,
+};
